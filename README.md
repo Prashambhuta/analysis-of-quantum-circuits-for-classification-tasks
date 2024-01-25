@@ -2,6 +2,14 @@
 
 The repo represents the master thesis work of Prasham Bhuta, under supervision of Dr. Linas Petkevicius, as part of Mathematics & Informatics Faculty, Vilnius University graduate program, January 2024.
 
+## Structure
+
+* The learning and segments of experimental code can be found in [notebooks/learn](notebooks/learn/).
+* The notebooks used for experiments, and analysis are located in [notebooks/experiments](notebooks/experiments/).
+* The thesis is located in [thesis](thesis/) folder, and can be accessed directly [here](thesis/Master%20thesis%20P.Bhuta.pdf)
+* A short presentation can be found in [presentation](presentation/) folder and [here](presentation/master_thesis_PBhuta.pdf)
+
+
 ## Goal 
 
 To describe and showcase quantum algorithms, and compare with classical machine
