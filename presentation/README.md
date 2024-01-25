@@ -2,4 +2,17 @@
 
 ## Presentation
 
-This folder provides access to the presentations generated for this study. 
+The final presentation can be found [here](master_thesis_PBhuta.pdf)
+
+## Screenshots
+
+![cover](media/cover.png)
+
+![goal](media/goal.png)
+
+![results](media/results.png)
+
+![conclusions](media/conclusion.png)
+
+
+
